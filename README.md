@@ -1,24 +1,10 @@
-# README
+# twitter-demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>Web-Crunch's <a href="https://www.youtube.com/watch?v=5gUysPm64a4">Twitter Clone Tutorial</a></p>
 
-Things you may want to cover:
+<p>part of top's <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/members-only">Project: Members Only!</a></p>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>To run:</p>
+<p><code>bundle install</code></p>
+<p><code>rails s</code></p>
+and go to <a href="http://localhost:3000">localhost:3000</a>
